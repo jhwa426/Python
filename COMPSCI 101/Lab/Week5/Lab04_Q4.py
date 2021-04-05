@@ -14,21 +14,39 @@ def main():
 
     print(remove_spaces("    1 5    67 88"))
 
+
 def remove_spaces(phrase):
-    new_string = ""
+    new_str = ""
     index = 0
-    space = ""
-    
+    space = " "
+
     while index < len(phrase):
-        if phrase[index] != " ":
-            new_string = new_string + phrase[index]
-            
-        else:
-            space = space + phrase[index]
+        if phrase[index] != space:
+            new_str += phrase[index]
 
-        index = index + 1
+        index += 1
 
-    return new_string
+    return new_str
+
+##def remove_spaces(phrase):
+##    new_string = ""
+##    index = 0
+##    space = ""
+##    
+##    while index < len(phrase):
+##        if phrase[index] != " ":
+##            new_string = new_string + phrase[index]
+##            
+##        else:
+##            space = space + phrase[index]
+##
+##        index = index + 1
+##
+##    return new_string
+
+##def remove_spaces(phrase):
+##    result = phrase.replace(" ", "")
+##    return result
 
 main()
 
