@@ -15,6 +15,17 @@ def test_string(phrase):
     
     else:
         return False
-    
+
+
+##Q7
+##def test_string(phrase):
+##    vowel = "aeiouAEIOU"
+##
+##    if len(phrase) % 2 == 0 and (phrase[0] in vowel or phrase[-1] in vowel):
+##        return True
+##    else:
+##        return False
+
+
 main()
 
