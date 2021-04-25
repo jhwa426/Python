@@ -23,8 +23,8 @@ def print_ox_xo_pattern(number_of_rows, number_of_columns):
         for column in range(number_of_columns):
             if (row+column) % 2 == 0:
                 print("o",end = "")
-            else:
-                print("x",end = "")
+
+            print("x",end = "")
         print()
         
 main()
