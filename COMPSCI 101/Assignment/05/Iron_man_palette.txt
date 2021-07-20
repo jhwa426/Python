@@ -1,0 +1,5 @@
+1:black
+2:red
+3:white
+4:gold
+5:tan
