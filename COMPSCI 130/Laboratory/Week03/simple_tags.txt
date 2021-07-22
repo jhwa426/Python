@@ -1,0 +1,10 @@
+CC:but or and
+CD:five one seven
+DT:the a
+IN:after around at for in of over that with
+JJ:brown dry hot
+JJS:nest
+MD:would
+NN:grass dreamer summer fun yard
+VBP:are
+VBZ:hans has is
