@@ -1,0 +1,5 @@
+Balrog: 73, 67
+Bison: 63, 54
+Chun Li: 95, 89
+Ken: 100, 75
+Ryu: 100, 95
