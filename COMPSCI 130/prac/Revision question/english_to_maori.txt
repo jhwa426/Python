@@ -1,0 +1,12 @@
+example:tauira
+house:whare
+apple:aporo
+love:aroha
+food:kai
+hello:kiaora
+work:mana
+weather:huarere
+greenstone:pounamu
+red:whero
+orange:karaka
+black:mangu
